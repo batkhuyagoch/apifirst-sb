@@ -45,7 +45,7 @@ externalDocs:
   url: 'https://github.com/Redocly/create-openapi-repo'
 tags:
 #  - name: Echo
-#    description: "Example echo operations."
+#    description: "Example echo operations." checking
   - name: User
     description: "Example actions on user accounts."
 #  - name: Admin
