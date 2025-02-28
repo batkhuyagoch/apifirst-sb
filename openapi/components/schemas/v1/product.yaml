@@ -1,0 +1,17 @@
+type: object
+properties:
+  id:
+    type: string
+    format: uuid
+    description: Unique identifier
+  description:
+    type: string
+  dimensions:
+    type: string
+  images:
+    type: array
+  price:
+    type: number    
+  cost:
+    type: number  
+    

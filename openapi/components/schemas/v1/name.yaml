@@ -1,0 +1,11 @@
+type: object
+properties:
+  prefix:
+    type: string
+    description: Name a prefix
+  firstName:
+    type: string
+  lastName:
+    type: string
+  suffix:
+    type: string

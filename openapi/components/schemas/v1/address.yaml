@@ -1,0 +1,22 @@
+
+type: object
+properties:
+  id: 
+    type: string
+    format: uuid
+    description: Unique identifier representing sepecific address.yaml
+  addressLine1:
+    type: string
+    description:  Address Line 1 
+  addressLine2:
+    type: string
+    description:  Address Line 2   
+  city:
+    type: string
+    description:  City  
+  state:
+    type: string
+    description:  State   
+  zipCode:
+    type: string
+    description:  Zip Code  
